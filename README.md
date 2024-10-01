@@ -28,6 +28,7 @@
 <br>
 
 - `Diminuir o uso de includes`: No momento estão sendo usados includes para conversão de dados int para str (por ex), pretendo estudar mais a fundo a linguagem para que eu possa reduzir os usos.
+<br>
 
 <h2>✔️ Tecnologias utilizadas</h2>
 <br>
